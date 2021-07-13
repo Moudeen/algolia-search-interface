@@ -1,6 +1,0 @@
-name: Algolia
-description: 'Instant search javascript'
-core_version_requirement: '^8.8 || ^9'
-package: Search
-type: module
-

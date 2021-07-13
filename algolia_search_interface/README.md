@@ -17,7 +17,7 @@ For indexing there is an existing module
 
 Currently supported:
  * A form to save algolia settings
- * cdn js already included in the module
+ * cdn libraries already included in the module
  * the search interface which can be customized by overriding the library
 
 REQUIREMENTS
